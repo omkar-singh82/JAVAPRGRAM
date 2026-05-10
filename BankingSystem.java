@@ -2,7 +2,7 @@ import java.util.*;
 class BankingSystem{
 	public static void main(String[]args){
 		Scanner sc=new Scanner(System.in);
-		int balance =10000;
+		int balance =100000;
 		int choice;
 		while(true){
 			System.out.println("welcome to my bank thank you");			
